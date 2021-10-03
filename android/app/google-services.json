@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "47203358012",
+    "firebase_url": "https://fluto-007-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluto-007",
+    "storage_bucket": "fluto-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47203358012:android:eaeb66e03210c17a1dba39",
+        "android_client_info": {
+          "package_name": "com.example.fmovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47203358012-54uq61cq59d0nsl94hdvif5v8bj6mq6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAzZ9tjz48VGDDiHqNgaIyQ3d84XoNidg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47203358012-54uq61cq59d0nsl94hdvif5v8bj6mq6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
